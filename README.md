@@ -59,8 +59,11 @@ class ApiLoggingInterceptor(private val prefs: Prefs) : Interceptor {
 
 ```
 
-#Reporting recent api
+### Reporting recent api
+
 Fetch stored data in CrashActivity and add api info on message body.
 Example is shown in CrashActivity
+
+**Thank you**
 
 
